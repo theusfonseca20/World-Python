@@ -6,6 +6,9 @@ Este é um repositório que vai conter meus primeiros códigos em python, onde i
 - Python
 - Git
 - PPO
+- Projetos
+
+Essa pasta vai conter vários mundos, onde vamos aumentar o nível em cada um deles :)
 
 Confira meu perfil em: [theusfonseca20](https://github.com/theusfonseca20)
 
