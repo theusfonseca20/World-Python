@@ -3,10 +3,12 @@
 Este é um repositório que vai conter meus primeiros códigos em python, onde irei descrever detalhadamente tudo que foi feito.
 
 ## Conhecimentos envolvidos
-- Python
+- Introdução ao Python
+- Módulos e PIP
+- POO
+- Manipulação de Arquivos
 - Git
-- PPO
-- Projetos
+- Exercicios
 
 Essa pasta vai conter vários mundos, onde vamos aumentar o nível em cada um deles :)
 
