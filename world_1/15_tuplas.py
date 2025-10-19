@@ -12,3 +12,4 @@ print(gamesTuples[0:2]) #Pegando do índice 0 ao índice 1
 print(gamesTuples[-1]) #Acessando o último elemento da tupla
 print(gamesTuples[2:])  #Pegando do índice 2 até o final da tupla
 print(gamesTuples.index("Hogwarts Legacy")) #Retorna o índice do elemento especificado
+
