@@ -16,15 +16,15 @@
 
 Neste curso, exploraremos os seguintes tópicos, do básico ao avançado:
 
--   ✨ **Introdução ao Python:** Primeiros passos na linguagem.
--   🔢 **Tipos de Dados:** Entendendo números, strings, booleanos e mais.
--   🚦 **Condicionais e Loops:** Controlando o fluxo da execução do código.
--   💾 **Estruturas de Dados:** Trabalhando com Listas, Tuplas e Dicionários.
--   📦 **Módulos e PIP:** Como organizar e gerenciar bibliotecas.
--   🧑‍💻 **Programação Orientada a Objetos (POO):** Classes, objetos, herança e polimorfismo.
--   📝 **Manipulação de Arquivos:** Lendo e escrevendo em arquivos.
--   ⚙️ **Git:** Controle de versão essencial para qualquer desenvolvedor.
--   🧠 **Exercícios Práticos:** Desafios para fixar o aprendizado.
+-   ✨ **Introdução ao Python:**
+-   🔢 **Tipos de Dados**
+-   🚦 **Condicionais e Loops:**
+-   💾 **Estruturas de Dados:**
+-   📦 **Módulos e PIP:**
+-   🧑‍💻 **Programação Orientada a Objetos (POO):**
+-   📝 **Manipulação de Arquivos:**
+-   ⚙️ **Git:**
+-   🧠 **Exercícios Práticos:**
 
 ---
 
@@ -33,7 +33,6 @@ Neste curso, exploraremos os seguintes tópicos, do básico ao avançado:
 Cada seção (ou "mundo") deste repositório terá:
 
 * **Códigos com Comentários:** Explicações claras em cada linha importante.
-* **READMEs Detalhados:** Um `README.md` específico para cada "mundo" ou exercício, explicando os conceitos e soluções.
 * **Evolução Constante:** O conteúdo será atualizado conforme meu aprendizado avança!
 
 ---
