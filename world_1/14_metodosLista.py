@@ -16,3 +16,6 @@ print(gamesReset)
 
 gamesReset.clear() #remove todos os elementos da lista
 print(gamesReset)
+
+gamesLista.pop() #remove o último elemento da lista
+print(gamesReset)

@@ -4,6 +4,9 @@ Este é um repositório que vai conter meus primeiros códigos em python, onde i
 
 ## Conhecimentos envolvidos
 - Introdução ao Python
+- Tipos de Dados
+- Condicionais e Loops
+- Listas, tuplas e dicionários
 - Módulos e PIP
 - POO
 - Manipulação de Arquivos
