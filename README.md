@@ -16,15 +16,15 @@
 
 Neste curso, exploraremos os seguintes tópicos, do básico ao avançado:
 
--   ✨ **Introdução ao Python:**
+-   ✨ **Introdução ao Python**
 -   🔢 **Tipos de Dados**
--   🚦 **Condicionais e Loops:**
--   💾 **Estruturas de Dados:**
--   📦 **Módulos e PIP:**
--   🧑‍💻 **Programação Orientada a Objetos (POO):**
--   📝 **Manipulação de Arquivos:**
--   ⚙️ **Git:**
--   🧠 **Exercícios Práticos:**
+-   🚦 **Condicionais e Loops**
+-   💾 **Estruturas de Dados**
+-   📦 **Módulos e PIP**
+-   🧑‍💻 **Programação Orientada a Objetos (POO)**
+-   📝 **Manipulação de Arquivos**
+-   ⚙️ **Git**
+-   🧠 **Exercícios Práticos**
 
 ---
 
