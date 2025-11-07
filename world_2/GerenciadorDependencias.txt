@@ -1,0 +1,11 @@
+-> Coleação de ferramentas que automatizam o processo de instalação
+-> A instalação é feita via linha de comando
+-> Presente em várias linguagens de programação
+-> O Pip é o gerenciador de pacotes do python
+-> O pip já vem instalado no python
+-> Site do Pip no python (https://pypi.org/search/)
+
+
+-> Podemos criar um ambiente virtual de desenvolvimento no python e usar as bibliotecas por projetos
+-> python3 -m venv .venv (Criando o arquivo venv)
+-> source bin/activate (Ativando o ambiente virtual)
