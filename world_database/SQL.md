@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E4YmNkN2NlMmJjZDNjYjY0MTNmMzMyYjRjYjNhYjI2M2MzZDI2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1BvOOl9n2n2U/giphy.gif" alt="Database GIF" width="200" style="margin-bottom: 20px;"/> </p>
+<p align="center"> <img src="https://app.lottiefiles.com/share/d204a519-d67d-4268-bc00-4882585e796f" alt="Database GIF" width="200" style="margin-bottom: 20px;"/> </p>
 
 <h1 align="center">🚀 Conhecendo a Linguagem SQL 🗃️</h1>
 
@@ -72,3 +72,4 @@ COMMIT (Salva permanentemente as alterações da transação)
 ROLLBACK (Desfaz as alterações da transação)
 
 <p align="center"> Um ótimo resumo para consulta rápida! 👨‍💻 </p>
+
