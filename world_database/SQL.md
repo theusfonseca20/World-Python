@@ -26,15 +26,14 @@ O SQL serve para um conjunto amplo de operações em um banco de dados, incluind
 
 Aqui estão alguns exemplos práticos de como o SQL é utilizado.
 
-Um comando para criar um novo banco de dados:
 ```sql
+Um comando para criar um novo banco de dados
 CREATE DATABASE Clientes;
+
 Um comando para selecionar colunas específicas de uma tabela:
-
-SQL
-
 SELECT nome, telefone
 FROM Clientes;
+
 🗂️ Categorias de Comandos SQL
 A linguagem SQL é comumente dividida em quatro subconjuntos principais de comandos:
 
@@ -74,4 +73,3 @@ COMMIT (Salva permanentemente as alterações)
 
 ROLLBACK (Desfaz as alterações)
 
-<p align="center"> Um ótimo resumo para consulta rápida! 👨‍💻 </p>
