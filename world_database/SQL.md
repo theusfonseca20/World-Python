@@ -1,12 +1,74 @@
--- Conhecendo a linguagem SQL
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E4YmNkN2NlMmJjZDNjYjY0MTNmMzMyYjRjYjNhYjI2M2MzZDI2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1BvOOl9n2n2U/giphy.gif" alt="Database GIF" width="200" style="margin-bottom: 20px;"/> </p>
 
--- Criada na decada de 1970 pela IBM e posteriormente padronizada pela ANSI e ISO
--- SQL (Structured Query Language) é a linguagem padrão utilizada para gerenciar e manipular dados relacionais
--- Serve para criação de tabelas, inserção de dados, consultas e manipualções de dados, gerencimanetos de acesso, etc.
--- Exemplos de comando SQL -> CREATE DATABASE Clientes; (criando um banco) | SELECT nome, telefone, FROM Clientes; (pegando as tabelas nome e telefone da tabela clientes)
+<h1 align="center">🚀 Conhecendo a Linguagem SQL 🗃️</h1>
 
--- Categorias de comandos da linguagem sql
--- DDL (Data Definition Language)-> comando para definir a estrutura do banco de dados (criação, alteração e exclusão de tabelas)  | CREATE TABLE, ALTER TABLE, DROP TABLE
--- DML (Data Manipulation Language) -> Comandos para manipular dados (pegar informações do banco, inserir dados, atualizar e deletar dados) | SELECT, INSERT, UPDATE, DELETE
--- DCL (Data Control Language) -> Comandos para controlar o acesso aos dados | GRANT, REVOKE
--- TCL (Transaction Control Language) -> Comandos para gerenciar transações (conjuntos de comandos que dependem uns dos outros) | BEGIN, COMMIT, ROLLBACK
+<p align="center"> <strong>SQL (Structured Query Language)</strong> é a linguagem padrão utilizada para gerenciar e manipular dados em bancos de dados relacionais.
+
+
+Criada na década de 1970 pela IBM e posteriormente padronizada pela ANSI e ISO, o SQL é fundamental para qualquer profissional que trabalhe com dados. </p>
+
+📌 Principais Funções
+O SQL serve para um conjunto amplo de operações em um banco de dados, incluindo:
+
+Criação de bancos de dados e tabelas.
+
+Inserção, atualização e exclusão de dados.
+
+Realização de consultas complexas para recuperar dados.
+
+Manipulação da estrutura dos dados.
+
+Gerenciamento de acesso e permissões de usuários.
+
+⌨️ Exemplos de Comandos
+Um comando para criar um novo banco de dados:
+
+SQL
+
+CREATE DATABASE Clientes;
+Um comando para selecionar colunas específicas de uma tabela:
+
+SQL
+
+SELECT nome, telefone
+FROM Clientes;
+🗂️ Categorias de Comandos SQL
+A linguagem SQL é comumente dividida em quatro subconjuntos principais de comandos:
+
+1. DDL (Data Definition Language)
+Comandos usados para definir ou alterar a estrutura do banco de dados e seus objetos (como tabelas, índices, etc.).
+
+CREATE (Ex: CREATE TABLE ...)
+
+ALTER (Ex: ALTER TABLE ...)
+
+DROP (Ex: DROP TABLE ...)
+
+2. DML (Data Manipulation Language)
+Comandos usados para manipular os dados armazenados dentro das tabelas.
+
+SELECT (Recupera dados)
+
+INSERT (Insere novos dados)
+
+UPDATE (Atualiza dados existentes)
+
+DELETE (Remove dados)
+
+3. DCL (Data Control Language)
+Comandos usados para controlar o acesso e as permissões dos usuários aos dados no banco.
+
+GRANT (Concede permissões)
+
+REVOKE (Revoga permissões)
+
+4. TCL (Transaction Control Language)
+Comandos usados para gerenciar transações no banco de dados. Transações são conjuntos de comandos que devem ser executados com sucesso como uma única unidade.
+
+BEGIN (Inicia uma transação)
+
+COMMIT (Salva permanentemente as alterações da transação)
+
+ROLLBACK (Desfaz as alterações da transação)
+
+<p align="center"> Um ótimo resumo para consulta rápida! 👨‍💻 </p>
