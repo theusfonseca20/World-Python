@@ -35,5 +35,3 @@ INSERT INTO ingredients (name_ingredients, category, quantity)
     ('Ovos', 'Diversos', 24),
     ('Presunto', 'Carnes', 14),
     ('Tomate', 'Frutas', 30);
-
-<p align="center"> Com o banco populado, o próximo passo é fazer consultas (<code>SELECT</code>)! 👨‍💻 </p>
