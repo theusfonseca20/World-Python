@@ -1,0 +1,6 @@
+O que é PPO?
+
+-> Nova maneira de pensar no desenvolvimento, utilizando conceitos do mundo real
+-> Objetos do mundo real transoformam-se em objetos no software (Me baseio na regra de negócio e aplico no código)
+-> Torna mais fácil a manutenção ao sistema
+-> Uma classe possui atributos (caracterisitcas) e métodos (comportamentos)
