@@ -1,0 +1,25 @@
+🗃️ O que são banco de dados?
+
+➡️ São conjutos de arquivos relacionados entre si que armazenam todo tipo de dados
+(pessoas, usuário, objetos e etc.)
+➡️ No começo, os dados eram gerenciadas pelo próprio sistema de arquivos e SOs, até 
+surgirem os SGBDs (próprio banco de dados), é um software encarregado de 
+cuidar do acesso, persitência, manipulção e organização dos dados
+➡️ o SGBD inclui o banco de dados, mas pode incluir várias outras ferramentas em seu ecossistema
+Exemplos de SGBD: MySQL, MariaDB, Oracle, Firebird, MongoDB, PostgreSQL, SQL SERVER, etc
+
+
+⚠️ Categorias de Banco de Dados:
+
+📌 Relacionais ou SQL: bancos mais tradicionais que trabalham com uma linguagem de consulta estruturada padrão (SQL)
+📌 Não Relacionais ou NoSQL: mais modernos que se popularizaram em 2010 para a solução de diversos problemas específicos, não utilizando os conceitos tradicionais e linguagem SQL
+
+⚠️ Fundamentos dos Bancos de Dados Relacionais
+
+📌 Tabelas: forma estruturada de armazenar os dados, um banco é composto de várias tabelas relacionadas entre si ou não
+📌 Relacionamento: formas de vinculas uma tabela a outra para criar esturutras mais robustas
+📌 Colunas: definem quais dados podem ser inseridos em uma tabela
+📌 Linhas: são os registros de dados em si, cada linha é considerada uma entrada individual em uma tabela
+📌 Chaves primárias: a coluna de uma tabela que é única e serve para identificar cada linha
+📌 Constraints: limitação e regras impostas sobre o banco de dados
+
