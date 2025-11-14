@@ -146,3 +146,36 @@ SELECT
   AVG(CASE WHEN duracao > 120 THEN avaliacao ELSE NULL END) AS media_acima_2_horas 
 FROM filmes;
 ```
+
+## 4. Exemplos de Modificação (UPDATE / DELETE)
+
+### Atualizar Dados (UPDATE)
+
+> Altera o valor 'Em Andamento' para 'Em Progresso' na tabela `series`.
+> *Útil para padronizar dados.*
+```sql
+UPDATE series 
+SET situacao = 'Em Progresso' 
+WHERE situacao = 'Em Andamento';
+```
+
+> Atualiza o título e o gênero de um filme específico na tabela `filmes`.
+```sql
+UPDATE filmes 
+SET titulo = 'Star Wars: A New Hope', genero = 'Sci/fantasia' 
+WHERE titulo = 'Star Wars';
+```
+
+### Apagar Dados (DELETE)
+
+> Remove uma linha específica (a série 'The Office') da tabela `series`.
+```sql
+DELETE FROM series 
+WHERE titulo = 'The Office';
+```
+
+> Remove todas as séries que começaram antes do ano 2000 E que tiveram mais de 5 temporadas.
+```sql
+DELETE FROM series 
+WHERE ano < 2000 AND temporadas > 5;
+```
