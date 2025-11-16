@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L194x3n0vjOfS/giphy.gif" alt="Database Relationships GIF" width="300" style="margin-bottom: 20px;"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd2NGVoMWJ4NzZjOXBycTdpamR1YWduMDhwYnZhcmxzbmcxdXRvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Database GIF" width="200" style="margin-bottom: 20px;"/>
 </p>
 
 <h1 align="center">🔗 Relacionamentos em Banco de Dados 🗃️</h1>
